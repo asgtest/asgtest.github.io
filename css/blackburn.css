@@ -2,6 +2,10 @@
   font-family: "Raleway", Helvetica, Arial, sans-serif
 }
 
+body{
+    background-image: url("https://files.catbox.moe/n55vpb.jpg");
+}
+
 a {
   color: #3b8bba;
   text-decoration: none;
